@@ -1,0 +1,5 @@
+/* Base reset lives mostly in styles/game.css */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
